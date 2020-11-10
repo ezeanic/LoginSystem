@@ -1,0 +1,23 @@
+{
+  "name": "loginsystem",
+  "version": "1.0.0",
+  "description": "System getting users' information after they log into it",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezeanic/LoginSystem.git"
+  },
+  "author": "Chijioke Ezeani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezeanic/LoginSystem/issues"
+  },
+  "homepage": "https://github.com/ezeanic/LoginSystem#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
